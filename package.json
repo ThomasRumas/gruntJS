@@ -1,0 +1,31 @@
+{
+  "name": "gruntTask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "broken-link-checker": "^0.7.6",
+    "combined-stream2": "^1.1.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "nopt": "^3.0.6",
+    "osx-release": "^1.1.0",
+    "prr": "^0.0.0",
+    "punycode": "^1.4.1",
+    "safe-buffer": "^5.1.1",
+    "semver": "^5.3.0",
+    "splitargs": "^0.0.7",
+    "stream-length": "^1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
